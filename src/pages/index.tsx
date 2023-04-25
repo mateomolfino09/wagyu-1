@@ -91,7 +91,7 @@ function setRefToFactsSend(ref: RefObject<HTMLDivElement>) {
               <Banner5 img={'/images/wagyu/fondo_imagen_Bloque05.jpg'} setRefToFactsSend ={setRefToFactsSend}/>
               <Banner6 img={'/images/wagyu/fondo_imagen_Bloque05.jpg'}/>
             </main>
-            <Footer scrollToPioneers={scrollToPioneers} scrollToProduct={scrollToProduct} scrollToContact={scrollToContact} scrollToFacts={scrollToFacts}/>
+            <Footer scrollToPioneers={scrollToPioneers} scrollToProduct={scrollToProduct} scrollToContact={scrollToContact} scrollToFacts={scrollToFacts} setRefToContactSend={setRefToContactSend}/>
 
     </div>
 

@@ -31,6 +31,9 @@
   .lightGray {
     @apply text-[#c5c5c5]
   }
+  .lightYellow {
+    @apply text-[#f1bd5a]
+  }
   .telugu {
     font-family: 'Noto Serif Telugu', serif;
   }
